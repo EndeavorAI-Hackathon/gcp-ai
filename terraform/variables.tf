@@ -7,3 +7,8 @@ variable "region" {
   type = string
   default = "us-central1"
 }  
+
+variable "bucket_name" {
+   description = "GCS Bucket name. Value should be unique ."
+   type        = string
+}

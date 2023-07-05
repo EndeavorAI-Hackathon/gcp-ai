@@ -3,7 +3,7 @@ resource "google_bigquery_dataset" "default" {
   friendly_name               = "endeavor"
   description                 = "Dataset for Analytical purpose"
   location                    = "europe-west3"
-  default_table_expiration_ms = 9600000000000000000000
+  default_table_expiration_ms = 960000000000
 
   labels = {
     env = "default"

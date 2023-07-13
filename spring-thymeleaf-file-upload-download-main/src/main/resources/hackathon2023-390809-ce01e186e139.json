@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hackathon2023-390809",
+  "private_key_id": "ce01e186e1398377ffed466eb3e3ee7262783fb6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0W1c3r1oxn+65\np1FYZuAZxR5tT4aHGFpM752/km32hGXst8Q3RVxOJyrPo8Gnta8tcd5vkIYe1sXt\nFIYz0sVDmjdt2/W7vSEZtScWL/mOMjO6HYtabMvKqAMTp7YuF72iV6ygyb6H1Ynd\neNFdXcpekoWAF/W+mvWdfbOSByJaNN/pSqnGcZZmuBF1n5CrnQd8WYI9mKheI5VV\niyxcSXK55mXEt4ALxvmriA2ce1/mMm2ZqHh8OCkasah2RVXE4iOEgKHf+X7+IQmO\nvxRvMLWDwYOvRON37+/AYVaW5UCYFf2oez+WlCpfYKCpdipDCFWjYX+r1Z6rVrMl\na82fJmLJAgMBAAECggEADzOzwknRfGVSpetoe98P/JwU2HnfiPuQgPOhhEg/ZIv8\nW1uR+maqRRwgC6ht5kj2Hwp+CUFRTMAlproYJb4aSnxxN51WtSBX7ebLCJ+6lTW+\nDm33FQQemVJYEAwO2wu9PDXPoy3eFWz2VeidHRWOvTH0druORyaglUnHHQPk7V1q\n4lWsE97RBhN/BpwaFBZga0lEokR69ATnmEBszOxYI0Vthdk1ouVO9vdaIGJuAPUZ\n5C2e4uSWAtx48tkSUlyHP7Ky8QhEU9GJ+xUULkhPe2WiY4fDP29B6/ANMUdSB5yM\nZOUdTtwRiIxWW1OvIg1qUWx+BLHPqzzhjzDLtaYAUQKBgQD8GoQcTBqyJQ1D+FWU\ne1bHUFardARP4OhwrFpJnUNjZ7ttegKQD6SM1mTDwtkFgfR7oyxYDBdF3vg4ey05\n1QTQ0O4hVAQ4FRUhYGoV2UWQBrzoILG+JlrymxqE1KPt1/+MQflAhNG0+ZxRQBr6\nL20yDLRqiYS4fL5vL5hkSO6oowKBgQC3JPK+tzFnpQDDwJ6rK/1gKhREjLm8AuQ4\noKmzOm3Ry4O6CkF5V2MIt+1LWGdLOCop4tujGiPPy3VqFJT/C4nUoytP/dBTJBgO\n5Sc9089xsK9wT6I3tTJOvzrnM08SqSrVb1X1/L+o5xIIPnDDLqUhyeTn2RoDDTPB\no8gnmfwhowKBgGXI3uX95Blg1EZJEWRtl8/JI/T9VnBZwf8b1yg5kmekDgxZYod/\niVRDi1Nua+jJW0g/zTuPRiYzq8xCDzR2SQd2E27pWPq7qFhdcPd5TZik38hoytqW\n6clhzgcrQzRYLRkX2eauuWx0CyTS2RGB7Hh0oLMS6r8BvnFtqf1zZMg5AoGBALVJ\n7MQegNgwvD4JaMbV550Oajuk9aIHVrQ7TWBt4RGAHCfHSSJ8/zo9Hrarjqwlr48A\n0ht0n6hspRBZyVdhq5EB57jp7RKvsuTjruGDzl+i3zcUjOYKBf9vSjZcUtSNAip+\naB/0jh/6g54HeQWsIaf9uwpJnHcS1X3DyzhwM+VzAoGBAJ+ikJhMuH911fW8FhWk\n6OfGY8F7XBEiRugVP0lG1Q1HAIJ5aRnyV0cNG+zWSS5CI1VFmDGTNjo4mfmAY8IY\naIJb3q0sem4d0QgTiKiL8hILL5EV4StOJcF4YD0gUBE781JbjbDak5H5afciNs1u\nOw1him8L4iPQeUDUYefmO/8/\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackathon2023-390809@appspot.gserviceaccount.com",
+  "client_id": "109084509541733002680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackathon2023-390809%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
